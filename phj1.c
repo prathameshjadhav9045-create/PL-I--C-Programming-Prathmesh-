@@ -1,6 +1,6 @@
 /*
  Program(1)- Write a program to make use of basic input output functions
-               using different datatypes 
+               using different datatypes  
                
   Solution(1) : Predefined values             
 */
